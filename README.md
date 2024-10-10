@@ -28,8 +28,8 @@ pip install tkinter geopy timezonefinder requests pytz
 1. Clone the repository or download the project files.
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/s-naveenkumar-001/Weather-Forecast-Application.git
+    cd Weather-App-GUI
     ```
 
 2. Obtain your free API key from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up) and replace the API key in the following line of the code:
